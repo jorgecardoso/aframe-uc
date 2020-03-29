@@ -1,1 +1,1 @@
-# aframe-uc
+# A-Frame Course

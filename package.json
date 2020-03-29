@@ -1,0 +1,24 @@
+{
+  "name": "hurricane-tub",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "showdown": "^1.8.6",
+    "showdown-highlight": "^2.0.0"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "markdown"
+  ]
+}
